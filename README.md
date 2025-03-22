@@ -1,4 +1,4 @@
-# Balkan-EU Sentiment Analysis in YouTube Comments 🇪🇺
+# Balkan-EU Sentiment Analysis in YouTube Comments
 
 This project analyzes public sentiment on **EU integration in the Balkans**, using YouTube comment data. The script performs **text cleaning, sentiment analysis (VADER, AFINN, Loughran, NRC, SentimentR)**, **topic modeling (LDA)**, and **visualization** of sentiment patterns over time, per country, and per user.
 
